@@ -1,7 +1,7 @@
  ### Hi I'm Anu Teresa Jose 👋
 
-DevOps Engineer with 4+ years of experience delivering cloud infrastructure
-and automation across startup and enterprise environments.
+DevOps Engineer with full-stack depth.
+I engineer cloud infrastructure, automate CI/CD pipelines, and build React & Django applications — end to end.
 
 **What I work with**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
